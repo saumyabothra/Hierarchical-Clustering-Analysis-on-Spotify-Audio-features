@@ -1,6 +1,5 @@
-# Spotify Musical Eras Clustering (Hierarchical + Silhouette + Heatmaps)
-
-This project groups years into “musical eras” using hierarchical clustering on Spotify audio features from `data_by_year.csv`.
+# Hierarchical-Clustering-Analysis-on-Spotify-Audio-features
+Can we identify groups of years with similar audio characteristics in the Spotify data set using hierarchical clustering?  How has musical style evolved overtime?
 
 ## The pipeline:
 
